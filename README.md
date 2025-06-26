@@ -998,6 +998,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saiful Alam](https://msar.me)
 - [Saikiran Somanagoudar](https://www.saikiransomanagoudar.com)
 - [Saitheja komalla](https://saitheja20.github.io/Portfolio/)
+- [Sajit Panta](https://sajitpanta.com.np) [Full Stack Developer, PHP, Laravel, Vue js, Nuxt, Livewire]
 - [Saksham Agarwal](https://skshamagarwal.github.io/)
 - [Salman Ibrahim](https://salman-ibrahim.github.io)
 - [Sam Foreman](https://samforeman.me) \[Computational Scientist\]
